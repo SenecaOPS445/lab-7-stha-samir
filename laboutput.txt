@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab7.py
+=================================================================
+    User login name: samir
+    Linux system name: samir-virtual-machine
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/samir/ops445/lab7/lab-7-stha-samir
+    Start at: Thu Mar 20 12:02:39 2025
+=================================================================
